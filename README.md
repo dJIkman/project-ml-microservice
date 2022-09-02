@@ -1,6 +1,7 @@
 <include a CircleCI status badge, here>
 
 ## Project Overview
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/dJIkman/project-ml-microservice/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/dJIkman/project-ml-microservice/tree/master)
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
 
